@@ -7,7 +7,7 @@ def my_collect(languages)
 end
 
 
-my_collect(langauges) do |lang|
+my_collect(langauges) do |language|
   lang.upcase
 end
 
