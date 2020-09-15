@@ -1,3 +1,3 @@
-def my_collect(friends)
+def my_collect
   
 end
