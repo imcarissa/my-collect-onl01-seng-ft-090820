@@ -6,10 +6,6 @@ def my_collect(languages)
       counter +=1
   end
     languages
-  end
-  
-  my_collect(languages) do |language|
-      language.upcase
     end
 end
 
