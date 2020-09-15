@@ -6,6 +6,8 @@ def my_collect(languages)
       i +=1
   end
   
-  my_collect(languages)
+  my_collect(languages) do |language|
+      language.upcase
+    end
 end
 
